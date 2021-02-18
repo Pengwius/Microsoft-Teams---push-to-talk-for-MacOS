@@ -1,1 +1,1 @@
-# Microsoft-Teams---push-to-talk-for-MacOS
+# Microsoft Teams - push to talk for MacOS
